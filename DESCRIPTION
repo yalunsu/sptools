@@ -1,0 +1,13 @@
+Package: sptools
+Type: Package
+Date: 2016-10-10
+Title: Tools for editing, creating or converting "sp" spatial objects
+Version: 0.0.0.9000
+Authors@R: person("Duccio", "Aiazzi", email = "duccio.aiazzi@gmail.com", role = c("aut", "cre"))
+Description: This is a collection of tools for editing, creating or converting "sp" spatial objects.
+Depends: R (>= 3.3.1)
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
+Imports: sp
